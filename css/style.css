@@ -325,8 +325,11 @@ header.container {
 }
 
 /*-----PORTFOLIO-----*/
+.main{
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
 .btn-list {
-  margin-top: 94px;
   margin-bottom: 50px;
   list-style: none;
   display: flex;
@@ -363,6 +366,11 @@ header.container {
 .info-portfolio {
   padding-top: 20px;
   padding-bottom: 20px;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-right: 1px solid #EEEEEE;
+  border-left:1px solid #EEEEEE ;
+  border-bottom: 1px solid #EEEEEE;
 }
 .menu {
   list-style: none;
